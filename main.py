@@ -72,7 +72,7 @@ def get_available_scripts(language):
             {"name": "X. Thoát", "value": "exit"},
         ],
         'en': [
-            {"name": "1. Automatic task Social Tasks", "value": "social"},
+            {"name": "1. Automatic Social Tasks", "value": "social"},
 
             {"name": "X. Thoát", "value": "exit"},
         ]
@@ -185,6 +185,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
 
 
